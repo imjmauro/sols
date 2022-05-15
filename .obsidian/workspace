@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "136c7a87d20afb8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2adf501b5b1e2e7b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "faculdade/Dimensão Social.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dc18d4bcd4510b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d334e30c68627a",
+        "type": "tabs",
+        "dimension": 35.69444444444444,
+        "children": [
+          {
+            "id": "052c92bbb524698b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5d4f669eb606638f",
+        "type": "tabs",
+        "dimension": 64.30555555555556,
+        "children": [
+          {
+            "id": "cb3a4c6906e4b6de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2815f3619bf14d8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#faculdade",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3cca0ce2e3217c4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253
+  },
+  "right": {
+    "id": "1ddfe89e80d82f7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a48ff9e2fb3e26be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "739467a158dd356b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "faculdade/Dimensão Social.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c8b72f2f605207c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "12efe9cc9a2e52b9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "active": "2adf501b5b1e2e7b",
+  "lastOpenFiles": [
+    "faculdade/Dimensão Social.md",
+    "faculdade/Racismo Estrutural.md",
+    "faculdade/José Paulo Netto.md",
+    "faculdade/Questão Social no Brasil.md",
+    "faculdade/Filosofia e Seso.md",
+    "faculdade/Intro. ao Seso.md",
+    "faculdade/Teoria Sociológica.md",
+    "faculdade/Capitalismo.md",
+    "faculdade/Serviço Social como área de produção do conhecimento.md",
+    "faculdade/Revolução Industrial.md"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#faculdade",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#programação",
+      "color": {
+        "a": 1,
+        "rgb": 1596667
+      }
+    },
+    {
+      "query": "line:(SeSo)",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.025,
+  "lineSizeMultiplier": 2.025,
+  "collapse-forces": false,
+  "centerStrength": 0.321428571428571,
+  "repelStrength": 9.69387755102041,
+  "linkStrength": 1,
+  "linkDistance": 249,
+  "scale": 0.17994111134083365,
+  "close": true
+}

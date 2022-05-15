@@ -1,0 +1,12 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "mídia",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "faculdade",
+  "fileSortOrder": "byModifiedTime"
+}
