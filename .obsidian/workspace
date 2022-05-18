@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "faculdade/Dimensão Social & Relações Sociais.md",
-            "mode": "preview",
+            "file": "faculdade/Método da Teoria Sociológica.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faculdade/Dimensão Social & Relações Sociais.md",
+                "file": "faculdade/Método da Teoria Sociológica.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,19 +128,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 211.5
   },
   "active": "64064150887debb9",
   "lastOpenFiles": [
-    "faculdade/Dimensão Social & Relações Sociais.md",
+    "faculdade/Método da Teoria Sociológica.md",
+    "faculdade/José Paulo Netto.md",
+    "faculdade/Intro. ao Seso.md",
     "faculdade/SeSo na Realidade Brasileira.md",
     "faculdade/Organização Interna do SeSo.md",
+    "faculdade/Dimensão Social & Relações Sociais.md",
     "faculdade/Educação Para Além Do Capital.md",
     "faculdade/Questão Social no Brasil.md",
-    "faculdade/José Paulo Netto.md",
     "faculdade/Racismo Estrutural.md",
-    "faculdade/Filosofia e Seso.md",
-    "faculdade/Intro. ao Seso.md",
-    "faculdade/Teoria Sociológica.md"
+    "faculdade/Filosofia e Seso.md"
   ]
 }
