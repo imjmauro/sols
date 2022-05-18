@@ -22,7 +22,7 @@ A [[Teleologia]] é importantíssima para pensarmos a educação como matéria e
 
 Produção e reprodução social: [[O Estado]] é uma categoria histórica que nasce para regular as relações sociais. Garantir, portanto, os valores de uma determinada sociedade.
 
-==[[Dimensão Social]]== é a socialização do indivíduo, a processualidade produz conhecimento e o generaliza. O salto ontológico, é o momento de reflexão do homem, detonando mudanças significativas da reprodução do homem.
+==[[Dimensão Social & Relações Sociais]]== é a socialização do indivíduo, a processualidade produz conhecimento e o generaliza. O salto ontológico, é o momento de reflexão do homem, detonando mudanças significativas da reprodução do homem.
 
 A realização entre teologia e causalidade. A correlação.
 
