@@ -8,6 +8,9 @@ Já para Marx, a problemática é uma espiral de problemas, um nó assim por diz
 - [[Hegel]]
 - [[Marx]]
 
+## [[Crítica da filosofia do direito de Hegel]]
+
+
 
 #faculdade 
 

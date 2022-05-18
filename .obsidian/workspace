@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "faculdade/Método da Teoria Sociológica.md",
+            "file": "faculdade/Crítica da filosofia do direito de Hegel.md",
             "mode": "source",
             "source": true
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faculdade/Método da Teoria Sociológica.md",
+                "file": "faculdade/Crítica da filosofia do direito de Hegel.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,6 +132,7 @@
   },
   "active": "64064150887debb9",
   "lastOpenFiles": [
+    "faculdade/Crítica da filosofia do direito de Hegel.md",
     "faculdade/Método da Teoria Sociológica.md",
     "faculdade/Hegel.md",
     "faculdade/José Paulo Netto.md",
@@ -140,7 +141,6 @@
     "faculdade/Organização Interna do SeSo.md",
     "faculdade/Dimensão Social & Relações Sociais.md",
     "faculdade/Educação Para Além Do Capital.md",
-    "faculdade/Questão Social no Brasil.md",
-    "faculdade/Racismo Estrutural.md"
+    "faculdade/Questão Social no Brasil.md"
   ]
 }
