@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2adf501b5b1e2e7b",
+        "id": "64064150887debb9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "faculdade/Dimensão Social & Relações Sociais.md",
+            "file": "faculdade/SeSo na Realidade Brasileira.md",
             "mode": "source",
             "source": true
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faculdade/Dimensão Social & Relações Sociais.md",
+                "file": "faculdade/SeSo na Realidade Brasileira.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,17 +130,17 @@
     "direction": "horizontal",
     "width": 286.5
   },
-  "active": "2adf501b5b1e2e7b",
+  "active": "64064150887debb9",
   "lastOpenFiles": [
+    "faculdade/SeSo na Realidade Brasileira.md",
     "faculdade/Dimensão Social & Relações Sociais.md",
+    "faculdade/Organização Interna do SeSo.md",
     "faculdade/Educação Para Além Do Capital.md",
     "faculdade/Questão Social no Brasil.md",
     "faculdade/José Paulo Netto.md",
     "faculdade/Racismo Estrutural.md",
     "faculdade/Filosofia e Seso.md",
     "faculdade/Intro. ao Seso.md",
-    "faculdade/Teoria Sociológica.md",
-    "faculdade/Capitalismo.md",
-    "faculdade/Serviço Social como área de produção do conhecimento.md"
+    "faculdade/Teoria Sociológica.md"
   ]
 }

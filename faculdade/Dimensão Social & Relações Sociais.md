@@ -5,9 +5,13 @@
 - [[Questão Social]] é, por fim, mazelas do Capital, que, nas relações de produções, enxergam na totalidade a entrada dos trabalhadores no eixo político, na qual anteriormente não cabiam nessa *praxis*.
 - Existe, logo, um processo e um projeto de desmitificação dos atalhos da profissão, uma necessidade urgente do SeSo que poderá ser modificado com o passar do séc XXI. A finalidade do SeSo que antes era de moralização dos trabalhadores, agora possui uma finalidade de conscientização e garantia de direitos. Essa finalidade é explorada conforme os trabalhos críticos da profissão ganham prática e palco.
 - [[O Estado]] possui um trabalho intrínseco com o sistema capitalista e seu *modus operandi*. Há, portanto, uma conversa de interesses entre o estado e o sistema econômico vigente, assim como a profissão possui uma conversa íntima com o estado pelas políticas sociais.
-- Os ângulos do SeSo se dividem entre as determinações externas e a organização interna, como o trabalho designado a um trabalhador, que possui o direito de utilizar-se das nuances daquela tarefa, e chegar em resultado "X" da forma que bem entender. Claro, dependendo da metologia e da teoria que se encontra, achando formas lógicas para a resolução dos problemas apresentados. Contudo, a organização interna traz a contradição elementar da Profissão que é a relação entre a resposta direta ao trabalhador e o serviço ao sistema. Como a profissão se coloca dentro de tal sistema é subjetivo, e essa subjetiva nos torna a raiz daquilo que se faz no SeSo, novamente: tratar da Questão Social.
+- Os ângulos do SeSo se dividem entre as determinações externas e a [[Organização Interna do SeSo]], como o trabalho designado a um trabalhador, que possui o direito de utilizar-se das nuances daquela tarefa, e chegar em resultado "X" da forma que bem entender. Claro, dependendo da metologia e da teoria que se encontra, achando formas lógicas para a resolução dos problemas apresentados. Contudo, a organização interna traz a contradição elementar da Profissão que é a relação entre a resposta direta ao trabalhador e o serviço ao sistema. Como a profissão se coloca dentro de tal sistema é subjetivo, e essa subjetiva nos torna a raiz daquilo que se faz no SeSo, novamente: tratar da Questão Social.
 
 >[!question] Se a mazela é produzida pelo Capital e não será exaurida... Para que serve a Utopia?
+
+- Na realidade, a forma objetiva do problema são as demandas, que encaram o Assistente como o poço encara o Filósofo. Assim, criando demandas sociais para o Assistente lidar, o mais objetivo no campus de expertise precisa assim mesmo usar de suas técnicas de abstração para poder se debruçar sob o problema de forma com que o resolva.
+
+# [[SeSo na Realidade Brasileira]]
 
 #faculdade 
 
