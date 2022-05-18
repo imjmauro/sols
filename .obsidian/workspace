@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "faculdade/SeSo na Realidade Brasileira.md",
+            "file": "faculdade/Dimensão Social & Relações Sociais.md",
             "mode": "preview",
             "source": true
           }
@@ -56,9 +56,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#faculdade",
+                "query": "",
                 "matchingCase": true,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faculdade/SeSo na Realidade Brasileira.md",
+                "file": "faculdade/Dimensão Social & Relações Sociais.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,8 +132,8 @@
   },
   "active": "64064150887debb9",
   "lastOpenFiles": [
-    "faculdade/SeSo na Realidade Brasileira.md",
     "faculdade/Dimensão Social & Relações Sociais.md",
+    "faculdade/SeSo na Realidade Brasileira.md",
     "faculdade/Organização Interna do SeSo.md",
     "faculdade/Educação Para Além Do Capital.md",
     "faculdade/Questão Social no Brasil.md",

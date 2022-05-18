@@ -13,6 +13,9 @@
 
 # [[SeSo na Realidade Brasileira]]
 
+>[!question] Como saber que não estou "passando dos limites" com o usuário?
+>Entendendo determinantes e a realidade geral.
+
 #faculdade 
 
 2022-05-18
