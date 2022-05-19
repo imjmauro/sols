@@ -41,3 +41,5 @@
 ## ==Não há o porque do Serviço Social deixar de existir, a profissão não terá o exaurir de seu cerne muito menos de sua motivação.==
 
 (Veja também: [[Questão Social no Brasil]])
+
+#faculdade 

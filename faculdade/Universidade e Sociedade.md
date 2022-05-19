@@ -1,8 +1,5 @@
 # Universidade e Sociedade
 
-### Perguntas
-- 
-
 ### Notas
 - O SeSo não é uma ciência em si
 - Produz escopos em base de fundamentos de algumas ciências sociais; [[Economia]], [[Sociologia]], [[Filosofia]],  [[Psicologia]]
@@ -22,7 +19,7 @@
 			- Dimensões Ideológicas profunda.
 			- Um atraso ideológico que não facilita o saber
 			- Necessário autonomia
-		- **O que é a [[ Extensão]]?**
+		- **O que é a [[Extensão]]?**
 
 
 ### Sumário
