@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "faculdade/Escritos Sobre a Universidade.md",
+            "file": "faculdade/Marx e o Trabalho Alienado.md",
             "mode": "source",
             "source": true
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faculdade/Escritos Sobre a Universidade.md",
+                "file": "faculdade/Marx e o Trabalho Alienado.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,15 +132,15 @@
   },
   "active": "02d099ece8f5a4e4",
   "lastOpenFiles": [
+    "faculdade/Marx e o Trabalho Alienado.md",
+    "faculdade/Hegel.md",
+    "faculdade/Dialética.md",
     "faculdade/Escritos Sobre a Universidade.md",
     "faculdade/Universidade e Sociedade.md",
     "faculdade/Extensão.md",
     "faculdade/Untitled.md",
-    "faculdade/Dialética.md",
     "faculdade/Método da Teoria Sociológica.md",
-    "faculdade/Marx e o Trabalho Alienado.md",
     "faculdade/José Paulo Netto.md",
-    "faculdade/Capitalismo.md",
-    "faculdade/Crítica da filosofia do direito de Hegel.md"
+    "faculdade/Capitalismo.md"
   ]
 }
