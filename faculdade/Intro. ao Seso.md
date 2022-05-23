@@ -46,7 +46,7 @@ Políticas de [[Assistência Social]], Previdência Social, [[CAPS]], etc...
 - [[Como deve ser nosso olhar investigativo?]];
 - [[Um embrião da reflexão sobre a perspectiva crítica]];
 - [[Questão Social]];
-- *[[José Paulo Netto]]*;
+- *[[Questão Social]]*;
 - [[Projeto ético-político do SeSo]];
 - [[Competências do Serviço Social]];
 - [[Organização Política da Categoria]];

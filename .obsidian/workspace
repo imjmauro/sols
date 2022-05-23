@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "02d099ece8f5a4e4",
+        "id": "aa684dc271af5ea2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "faculdade/Marx e o Trabalho Alienado.md",
+            "file": "faculdade/Significado Sócio-Histórico da Profissão de SeSo.md",
             "mode": "source",
             "source": true
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faculdade/Marx e o Trabalho Alienado.md",
+                "file": "faculdade/Significado Sócio-Histórico da Profissão de SeSo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,17 +130,17 @@
     "direction": "horizontal",
     "width": 211.5
   },
-  "active": "02d099ece8f5a4e4",
+  "active": "aa684dc271af5ea2",
   "lastOpenFiles": [
-    "faculdade/Marx e o Trabalho Alienado.md",
-    "faculdade/Hegel.md",
-    "faculdade/Dialética.md",
-    "faculdade/Escritos Sobre a Universidade.md",
-    "faculdade/Universidade e Sociedade.md",
-    "faculdade/Extensão.md",
-    "faculdade/Untitled.md",
+    "faculdade/Significado Sócio-Histórico da Profissão de SeSo.md",
+    "faculdade/Igreja Católica.md",
+    "faculdade/Intro. ao Seso.md",
+    "faculdade/Capitalismo.md",
+    "faculdade/Questão Social.md",
+    "faculdade/Crítica da filosofia do direito de Hegel.md",
     "faculdade/Método da Teoria Sociológica.md",
-    "faculdade/José Paulo Netto.md",
-    "faculdade/Capitalismo.md"
+    "faculdade/Dimensão Social & Relações Sociais.md",
+    "faculdade/Organização Interna do SeSo.md",
+    "faculdade/Reprodução Social.md"
   ]
 }

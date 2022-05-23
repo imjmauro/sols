@@ -1,5 +1,3 @@
-# José Paulo Netto
-
 # Questão Social
 - A chamada dívida social, ainda não resgata mas longe disso, sim acrescida; 
 - A expressão não é unívoca;

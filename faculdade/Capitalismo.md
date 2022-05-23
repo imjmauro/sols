@@ -1,5 +1,5 @@
 # Capitalismo
 
-As crises compõe o Sistema Capitalista em si,.
+As crises compõe o Sistema Capitalista em si.
 
 #faculdade 

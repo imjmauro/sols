@@ -37,3 +37,5 @@ Do ponto de vista ideológico, é necessário uma separação no capitalismo. Em
 O capitalismo então vai depender de mecanismos ideológicos educacionais intrínsecos do sistema. Durkheim diz que há uma necessidade da sociedade de um controle dos fatos sociais. 
 
 Repressão e Educação: Duas formas que o estado usa para reprimir ideologicamente o pensamento revolucionário.
+
+#faculdade 
