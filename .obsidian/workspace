@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "faculdade/Significado Sócio-Histórico da Profissão de SeSo.md",
+            "file": "faculdade/Projeto ético-político do SeSo.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "20501a2da361adbc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "faculdade/A Questão da Autonomia.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253
+    "width": 252
   },
   "right": {
     "id": "1ddfe89e80d82f7c",
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faculdade/Significado Sócio-Histórico da Profissão de SeSo.md",
+                "file": "faculdade/Projeto ético-político do SeSo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,8 +135,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,15 +143,15 @@
   },
   "active": "aa684dc271af5ea2",
   "lastOpenFiles": [
-    "faculdade/Significado Sócio-Histórico da Profissão de SeSo.md",
-    "faculdade/Igreja Católica.md",
-    "faculdade/Intro. ao Seso.md",
-    "faculdade/Capitalismo.md",
-    "faculdade/Questão Social.md",
-    "faculdade/Crítica da filosofia do direito de Hegel.md",
-    "faculdade/Método da Teoria Sociológica.md",
+    "faculdade/Projeto ético-político do SeSo.md",
+    "faculdade/A Universidade Na Sociedade.md",
+    "faculdade/Escritos Sobre a Universidade.md",
+    "faculdade/A Questão da Autonomia.md",
     "faculdade/Dimensão Social & Relações Sociais.md",
-    "faculdade/Organização Interna do SeSo.md",
-    "faculdade/Reprodução Social.md"
+    "faculdade/Crítica da filosofia do direito de Hegel.md",
+    "faculdade/Educação Para Além Do Capital.md",
+    "faculdade/Igreja Católica.md",
+    "faculdade/Significado Sócio-Histórico da Profissão de SeSo.md",
+    "faculdade/Cidadania.md"
   ]
 }
